@@ -7,3 +7,4 @@ This system calculates the users hospital bill and adds a discount if they're a 
 This system uses encapsulation, inheritance, and method overriding to automate billing computation.
 
 
+This is an automated way to accurately and fairly compute patient bills
