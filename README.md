@@ -7,5 +7,3 @@ Regular Patients pay the full amount.
 Senior Citizens receive a 20% discount.
 PhilHealth Members receive 15% discount.
 
-# System Functions
-This system uses encapsulation, inheritance, and method overriding to automate billing computation.
